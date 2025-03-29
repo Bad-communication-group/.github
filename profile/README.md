@@ -1,3 +1,4 @@
 # 不好交流小组🙄💅
 
-![Metrics](https://metrics.lecoq.io/?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+![Lcyys666](https://raw.githubusercontent.com/Lcyys666/Lcyys666/ac272b4a529fdcf96112d316a1d4f182d6f3a150/github-metrics.svg))
+![xby-wh](https://raw.githubusercontent.com/xby-wh/xby-wh/735e74c5594c2b5fe17dc2369915af010a689390/github-metrics.svg)
