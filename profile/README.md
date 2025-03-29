@@ -3,6 +3,7 @@
 ## 项目
 
 - [cf-api-interface](https://github.com/Bad-communication-group/cf-api-interface)
+- [Static-blogging-system](https://github.com/Bad-communication-group/Static-blogging-system)
 
 ## 组员
 
